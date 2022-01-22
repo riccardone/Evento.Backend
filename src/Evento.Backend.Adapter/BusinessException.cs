@@ -1,0 +1,10 @@
+﻿namespace Evento.Backend.Adapter
+{
+    public class BusinessException : Exception
+    {
+        public BusinessException(string message) : base(message)
+        {
+
+        }
+    }
+}
