@@ -1,0 +1,12 @@
+{
+  "type": "ConfigueOrganisation",
+  "source": "evento",
+  "id": "123",
+  "time": "2021-12-24T10:48:12.308Z",
+  "dataContentType": "application/json",
+  "dataSchema": "",
+  "data": {
+    "id": "ae13531f-706c-407a-9b70-917777a5595d",
+    "name": "test organisation"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Evento.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "send -f ./Payloads/ConfigureOrganisation.json"
+    }
+  }
+}
